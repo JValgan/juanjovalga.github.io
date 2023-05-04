@@ -2,4 +2,4 @@
 
 ## Derivades
 
-$$f^\prime (x)$$
+$$f^\prime (x)=x^2 $$
